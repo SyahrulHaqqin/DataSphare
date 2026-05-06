@@ -1,3 +1,8 @@
+Nama Kelompok :
+# Syahrul Haqqin Nazil
+# Revan Oknanda
+# Bilqis Rifqt Safaa
+
 # ⚙️ Database Trigger Documentation
 
 Dokumentasi ini berisi trigger utama yang digunakan dalam sistem **Sistem Informasi Ekstrakurikuler** untuk menjaga konsistensi data.
@@ -33,3 +38,5 @@ Memastikan data absensi valid dan tidak kosong.
 * Jika `status` kosong → set default `"Hadir"`
 
 ---
+
+
